@@ -1,0 +1,15 @@
+D:\Works\GDMY2\CODEY2\MIDTERM025\bin\Debug\net6.0\MIDTERM025.exe
+D:\Works\GDMY2\CODEY2\MIDTERM025\bin\Debug\net6.0\MIDTERM025.deps.json
+D:\Works\GDMY2\CODEY2\MIDTERM025\bin\Debug\net6.0\MIDTERM025.runtimeconfig.json
+D:\Works\GDMY2\CODEY2\MIDTERM025\bin\Debug\net6.0\MIDTERM025.dll
+D:\Works\GDMY2\CODEY2\MIDTERM025\bin\Debug\net6.0\MIDTERM025.pdb
+D:\Works\GDMY2\CODEY2\MIDTERM025\obj\Debug\net6.0\MIDTERM025.csproj.AssemblyReference.cache
+D:\Works\GDMY2\CODEY2\MIDTERM025\obj\Debug\net6.0\MIDTERM025.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\GDMY2\CODEY2\MIDTERM025\obj\Debug\net6.0\MIDTERM025.AssemblyInfoInputs.cache
+D:\Works\GDMY2\CODEY2\MIDTERM025\obj\Debug\net6.0\MIDTERM025.AssemblyInfo.cs
+D:\Works\GDMY2\CODEY2\MIDTERM025\obj\Debug\net6.0\MIDTERM025.csproj.CoreCompileInputs.cache
+D:\Works\GDMY2\CODEY2\MIDTERM025\obj\Debug\net6.0\MIDTERM025.dll
+D:\Works\GDMY2\CODEY2\MIDTERM025\obj\Debug\net6.0\refint\MIDTERM025.dll
+D:\Works\GDMY2\CODEY2\MIDTERM025\obj\Debug\net6.0\MIDTERM025.pdb
+D:\Works\GDMY2\CODEY2\MIDTERM025\obj\Debug\net6.0\MIDTERM025.genruntimeconfig.cache
+D:\Works\GDMY2\CODEY2\MIDTERM025\obj\Debug\net6.0\ref\MIDTERM025.dll
